@@ -2,57 +2,28 @@
 
 ### Cloud Operations Engineer
 
-Cloud Operations Engineer with hands-on experience in AWS and Azure environments. Passionate about cloud infrastructure, automation, monitoring, and continuously improving DevOps skills.
+AWS • Azure • Linux • Terraform • Jenkins • Docker • Ansible
 
 ---
 
-## Tech Stack
+🚀 Building cloud automation and infrastructure projects while expanding my skills in DevOps and Kubernetes.
 
-- AWS
-- Azure
-- Linux
-- Docker
-- Ansible
-- Terraform
-- Jenkins
-- GitHub Actions
-- CloudWatch
-- Grafana
-- Python
-- Git
+### Featured Projects
+
+- ⚙️ Ansible Automation
+- ☁️ AWS Cloud Monitoring
+- 🚀 Jenkins CI/CD Pipeline
+- 🏗️ Terraform AWS EC2
+- ⏰ AWS EC2 Scheduler
 
 ---
 
-## Featured Projects
+🌱 Currently Learning
 
-### Ansible Automation Project
-Automated Apache web server deployment and configuration on a Docker-based Ubuntu server using Ansible playbooks.
-
-### Jenkins CI/CD Pipeline
-Built a CI/CD pipeline using Jenkins, Docker, GitHub, and Python with Checkout, Build, Test, and Deploy stages.
-
-### AWS Cloud Monitoring
-Infrastructure monitoring using AWS CloudWatch and Grafana.
-
-### AWS EC2 Scheduler
-Automated EC2 start and stop scheduling.
-
-### Terraform AWS EC2
-Provisioned AWS EC2 infrastructure using Terraform.
+Kubernetes • GitHub Actions • Advanced Terraform
 
 ---
-
-## Currently Learning
-
-- Kubernetes
-- Advanced Terraform
-- AWS DevOps Services
-
----
-
-## Connect
-
-💼 LinkedIn  
-www.linkedin.com/in/shivani-sharma-a92073236/
 
 📍 Pune, India
+
+🔗 LinkedIn
